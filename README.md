@@ -19,8 +19,8 @@
 | `sector_56_x700-799_y400-499/sector_56_tiles.csv` | тайлы земли (2500 строк) |
 | `sector_56_x700-799_y400-499/sector_56_objects.csv` | объекты (1856 строк) |
 | `sector_56_x700-799_y400-499/sector_56_sprites.csv` | спрайты объектов (3890 строк) |
-| `sector_56_x700-799_y400-499/sector_56_screenshot_hq.png` | свежий изометрический рендер сектора 3656×2015 |
-| `sector_56_x700-799_y400-499/sector_56_screenshot.jpg` | тот же рендер, JPEG |
+| `sector_56_x700-799_y400-499/sector_56_screenshot.jpg` | свежий изометрический рендер сектора 3656×2015 (JPEG q90) |
+| `sector_56_x700-799_y400-499/sector_56_screenshot_preview.png` | PNG-превью 1700 px (полноразмерный HQ PNG 3656×2015 — в локальной выгрузке) |
 | `sector_56_x700-799_y400-499/sector_56_atlas_1531x817.jpg` | старая вырезка атласа для сверки |
 | `sector_56_x700-799_y400-499/sector_56_packs.png` | каталог элементов: 24 пака спрайтов |
 | `sector_56_x700-799_y400-499/sector_56_tiles_palette.png` | все 115 тайлов земли сектора |
